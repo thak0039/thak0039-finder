@@ -1,0 +1,12 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+#map {
+    border: 2px solid #333;
+    width: 100vh;
+    height: 100vh;
+}
